@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/error/ErrorList.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/error/Error.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/agent/Communicator.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/agent/FrameworkObject.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/agent/Agent.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/error/ErrorLogger.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/error/ErrorType.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/messaging/CommunicationManager.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/error/ErrorManager.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/agent/Test.java</file>
+            <file>file:/Users/yehiakotb/Desktop/code/com.research.software/src/com/research/software/messaging/Message.java</file>
+        </group>
+    </open-files>
+</project-private>
